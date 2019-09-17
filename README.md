@@ -24,9 +24,14 @@ The project is split into four parts:
 
 The file `metabolites.csv` contains data on 200 non-obese healthy men who have undergone an overnight fast. The table gives some additional information:
 
-|   Metabolite    |  Unit   |  Role                             |  Comments                                      |
+|  Metabolite     |  Unit   |  Role                             |  Comments                                      |
 | --------------- | ------- | --------------------------------- | ---------------------------------------------- |
 |  Glucose        | mmol/l  |  Source of Energy                 |                                                |
 |  Insulin        | pmol/l  |  Promotes glucose metabolism      |                                                |
 |  C-peptide      | pmol/l  |  By-product of insulin production | Persent at higer concentrations than insulin   |
 |  Lipoprotein (a)| mg/l    |  Lipid transport                  | Lower limit of detection is 4.0 mg/l           |
+
+
+
+In part A of the question 1, Assuming that these data have been collated from various sources and may have been manually transcribed:
+* Assess the frequency distribution of each metabolite using graphical methods and state whether the distribution of each is or is not normal. Where the distribution deviates from normal, state the nature of the deviation. Include the relevant plots in your answer. Try to make use of subplots
