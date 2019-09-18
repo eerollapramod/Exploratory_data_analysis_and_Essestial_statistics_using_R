@@ -1,6 +1,6 @@
 # Exploratory Data Analysis and Essestial Statistics using R
 
-This Respository contains an R script for each question that perform differnt statistical and data analysis task. Each question (folder) contains the main R script (`Question_#.r`), required datasets, and any R functions required to perform the analysis. 
+This Respository contains R scripts for each question that perform differnt statistical and data analysis tasks. Each question (folder) contains the main R script (`Question_#.r`), required datasets, and any R functions required to perform the analysis. 
 
 
 ## Dependencies
